@@ -1,0 +1,20 @@
+.title {
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.title-change {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.update-map-container {
+  padding-left: 20px;
+}
+
+.upload-container {
+  padding-left: 20px;
+}
